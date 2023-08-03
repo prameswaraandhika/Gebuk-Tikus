@@ -89,16 +89,22 @@ To use the Whack-a-Mole game in your LibGDX project, follow these steps:
 
 Remember to customize the game elements, suc has mole speed, mole appearance, background, and hole placement, according to your game's requirements.
 
-License
+## License
+
 The Whack-a-Mole game and its source code are provided under the MIT License. You are free to modify and use the code in your projects, including commercial projects.
 
-Credits
+## Credit
+
 The Whack-a-Mole game and its code were created by Your Name. If you find this game helpful, consider giving credit or starring the project repository on GitHub.
 
-Resources
-LibGDX Official Website
-Mole and Hole Texture Images
-Background Texture Image
-Stun Texture Image
-Sound Effect
-Enjoy creating your Whack-a-Mole game! Happy coding
+## Resources
+
+Sure! Here are the links to the resources mentioned:
+
+- [LibGDX Official Website](https://libgdx.badlogicgames.com/)
+- [Mole and Hole Texture Images](link_to_mole_and_hole_textures)
+- [Background Texture Image](link_to_background_texture)
+- [Stun Texture Image](link_to_stun_texture)
+- [Sound Effect](link_to_sound_effect)
+
+Enjoy creating your Whack-a-Mole game! Happy coding!
